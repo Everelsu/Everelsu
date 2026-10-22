@@ -1,6 +1,6 @@
 {
- "key": "bbf95c30",
- "stars": 5,
+ "key": "7d6fadb8",
+ "stars": 18,
  "contributions": 372,
  "repos": 18,
  "followers": 3,
@@ -150,7 +150,7 @@
    "url": "https://github.com/Everelsu/Noctrinth",
    "text": "Modrinth Launcher fork",
    "fork": true,
-   "stars": 19,
+   "stars": 21,
    "language": "Rust",
    "topics": [
     "launcher",
@@ -162,7 +162,7 @@
    "url": "https://github.com/Everelsu/UkyUi",
    "text": "",
    "fork": false,
-   "stars": 2,
+   "stars": 4,
    "language": "Java",
    "topics": []
   },
@@ -171,8 +171,17 @@
    "url": "https://github.com/Everelsu/Raspisanie",
    "text": "",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "SpellBrigade",
+   "url": "https://github.com/Everelsu/SpellBrigade",
+   "text": "All my spellbrigade mods source code",
+   "fork": false,
+   "stars": 2,
+   "language": "C#",
    "topics": []
   },
   {
@@ -180,7 +189,7 @@
    "url": "https://github.com/Everelsu/steam-power-actions",
    "text": "power menu for dowbloads",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "TypeScript",
    "topics": []
   },
@@ -189,7 +198,7 @@
    "url": "https://github.com/Everelsu/overlay-stopwatch",
    "text": "",
    "fork": true,
-   "stars": 1,
+   "stars": 2,
    "language": "Lua",
    "topics": [
     "millenium",
@@ -201,7 +210,7 @@
    "url": "https://github.com/Everelsu/Nboard",
    "text": "Nothing inspired keyboard for android",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": []
   },
@@ -210,17 +219,8 @@
    "url": "https://github.com/Everelsu/wireframe",
    "text": "will do something",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "CSS",
-   "topics": []
-  },
-  {
-   "name": "SpellBrigade",
-   "url": "https://github.com/Everelsu/SpellBrigade",
-   "text": "All my spellbrigade mods source code",
-   "fork": false,
-   "stars": 0,
-   "language": "C#",
    "topics": []
   },
   {
@@ -228,7 +228,7 @@
    "url": "https://github.com/Everelsu/vpn-service",
    "text": "",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "TypeScript",
    "topics": []
   },
@@ -237,7 +237,7 @@
    "url": "https://github.com/Everelsu/BQuesting-UKYs",
    "text": "yeah. trying to fix sync",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Java",
    "topics": []
   },
@@ -246,7 +246,7 @@
    "url": "https://github.com/Everelsu/TUIChat",
    "text": "Chat TUI based",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": []
   },
@@ -255,7 +255,7 @@
    "url": "https://github.com/Everelsu/Everelsu",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   },
@@ -264,7 +264,7 @@
    "url": "https://github.com/Everelsu/delivery-app",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Dart",
    "topics": []
   },
@@ -273,7 +273,7 @@
    "url": "https://github.com/Everelsu/Krutilka",
    "text": "Roulllete Slots for giveaway.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "JavaScript",
    "topics": []
   },
@@ -282,7 +282,7 @@
    "url": "https://github.com/Everelsu/Arsenal-1.21.1-neoforged",
    "text": "",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "Java",
    "topics": []
   },
@@ -291,7 +291,7 @@
    "url": "https://github.com/Everelsu/Space",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "C#",
    "topics": []
   },
@@ -300,7 +300,7 @@
    "url": "https://github.com/Everelsu/Nocturne",
    "text": "Nocturne is a fork of Vocard. It supports YouTube, SoundCloud, Spotify, Twitch, and potentially Yandex Music and more!",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Python",
    "topics": []
   },
@@ -309,7 +309,7 @@
    "url": "https://github.com/Everelsu/RelsevLink",
    "text": "Site with on all my............",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "JavaScript",
    "topics": []
   }
