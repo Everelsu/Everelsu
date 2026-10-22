@@ -1,5 +1,5 @@
 {
- "key": "bdef20b",
+ "key": "2b7402b8",
  "stars": 5,
  "contributions": 371,
  "repos": 18,
@@ -143,59 +143,7 @@
   "current": 1,
   "longest": 10
  },
- "pins": [
-  {
-   "name": "Noctrinth",
-   "url": "https://github.com/Everelsu/Noctrinth",
-   "text": "Modrinth Launcher fork",
-   "fork": true,
-   "stars": 19,
-   "language": "Rust",
-   "topics": [
-    "launcher",
-    "minecraft"
-   ]
-  },
-  {
-   "name": "Raspisanie",
-   "url": "https://github.com/Everelsu/Raspisanie",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "Dart",
-   "topics": []
-  },
-  {
-   "name": "Nocturne",
-   "url": "https://github.com/Everelsu/Nocturne",
-   "text": "Nocturne is a fork of Vocard. It supports YouTube, SoundCloud, Spotify, Twitch, and potentially Yandex Music and more!",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "steam-power-actions",
-   "url": "https://github.com/Everelsu/steam-power-actions",
-   "text": "power menu for dowbloads",
-   "fork": false,
-   "stars": 1,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "overlay-stopwatch",
-   "url": "https://github.com/Everelsu/overlay-stopwatch",
-   "text": "",
-   "fork": true,
-   "stars": 1,
-   "language": "Lua",
-   "topics": [
-    "millenium",
-    "plugin"
-   ]
-  }
- ],
+ "pins": [],
  "all": [
   {
    "name": "Noctrinth",
