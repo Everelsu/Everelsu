@@ -1,7 +1,7 @@
 {
- "key": "ad2151ed",
+ "key": "4dd5c87",
  "stars": 18,
- "contributions": 387,
+ "contributions": 382,
  "repos": 19,
  "followers": 3,
  "languages": [
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
