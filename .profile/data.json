@@ -1,8 +1,8 @@
 {
- "key": "91cb6c51",
- "stars": 18,
- "contributions": 399,
- "repos": 19,
+ "key": "b1ca22e3",
+ "stars": 19,
+ "contributions": 441,
+ "repos": 20,
  "followers": 3,
  "languages": [
   [
@@ -12,6 +12,10 @@
   [
    "Dart",
    1165556
+  ],
+  [
+   "JavaScript",
+   800742
   ],
   [
    "Rust",
@@ -26,12 +30,8 @@
    623600
   ],
   [
-   "JavaScript",
-   385486
-  ],
-  [
-   "HTML",
-   203350
+   "Vue",
+   612328
   ]
  ],
  "days": [
@@ -116,12 +116,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 9,
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 10,
     "today": true
    },
@@ -132,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 10
  },
  "pins": [],
@@ -267,6 +267,15 @@
    "fork": true,
    "stars": 1,
    "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Hiagda_hostel",
+   "url": "https://github.com/Everelsu/Hiagda_hostel",
+   "text": "Отель \"Хиагда\"",
+   "fork": false,
+   "stars": 1,
+   "language": "Vue",
    "topics": []
   },
   {
