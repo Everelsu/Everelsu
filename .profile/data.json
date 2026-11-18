@@ -1,5 +1,5 @@
 {
- "key": "ae69c5d9",
+ "key": "fefe2036",
  "stars": 19,
  "contributions": 443,
  "repos": 20,
@@ -123,16 +123,20 @@
    {
     "c": 0,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 10
  },
  "pins": [],
