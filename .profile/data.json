@@ -1,5 +1,5 @@
 {
- "key": "fefe2036",
+ "key": "4c37a0f7",
  "stars": 19,
  "contributions": 443,
  "repos": 20,
@@ -146,7 +146,7 @@
    "url": "https://github.com/Everelsu/Noctrinth",
    "text": "Modrinth Launcher fork",
    "fork": true,
-   "stars": 24,
+   "stars": 25,
    "language": "Rust",
    "topics": [
     "launcher",
