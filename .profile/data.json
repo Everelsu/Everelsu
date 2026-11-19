@@ -1,5 +1,5 @@
 {
- "key": "7958f6d6",
+ "key": "23577e6",
  "stars": 19,
  "contributions": 443,
  "repos": 20,
@@ -154,7 +154,10 @@
    "language": "Rust",
    "topics": [
     "launcher",
-    "minecraft"
+    "minecraft",
+    "modrinth",
+    "mods",
+    "minecraft-launcher"
    ]
   },
   {
