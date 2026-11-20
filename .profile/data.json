@@ -1,5 +1,5 @@
 {
- "key": "75584495",
+ "key": "d0015cb4",
  "stars": 19,
  "contributions": 444,
  "repos": 20,
@@ -154,7 +154,7 @@
    "url": "https://github.com/Everelsu/Noctrinth",
    "text": "Modrinth Launcher fork",
    "fork": true,
-   "stars": 25,
+   "stars": 26,
    "language": "Rust",
    "topics": [
     "launcher",
