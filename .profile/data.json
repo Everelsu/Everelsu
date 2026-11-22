@@ -1,8 +1,8 @@
 {
- "key": "cfb9a19c",
+ "key": "4d26bc6e",
  "stars": 19,
- "contributions": 447,
- "repos": 21,
+ "contributions": 459,
+ "repos": 23,
  "followers": 4,
  "languages": [
   [
@@ -15,7 +15,7 @@
   ],
   [
    "JavaScript",
-   801396
+   805094
   ],
   [
    "Rust",
@@ -104,14 +104,14 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 21,
     "today": false
    }
   ],
   [
    {
-    "c": 2,
+    "c": 13,
     "day": 22,
     "today": true
    },
@@ -297,6 +297,24 @@
    "text": "Site with on all my............",
    "fork": false,
    "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Noctrinth-Floating-Bars",
+   "url": "https://github.com/Everelsu/Noctrinth-Floating-Bars",
+   "text": "Floating rounded islands CSS theme for Noctrinth Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Noctrinth-Plugins",
+   "url": "https://github.com/Everelsu/Noctrinth-Plugins",
+   "text": "Official community plugin & theme catalog for Noctrinth Launcher",
+   "fork": false,
+   "stars": 0,
    "language": "JavaScript",
    "topics": []
   },
