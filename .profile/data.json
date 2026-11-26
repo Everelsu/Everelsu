@@ -1,5 +1,5 @@
 {
- "key": "ca3ca296",
+ "key": "f75df875",
  "stars": 20,
  "contributions": 470,
  "repos": 25,
@@ -128,9 +128,13 @@
    {
     "c": 2,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
